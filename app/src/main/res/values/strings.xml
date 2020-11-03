@@ -1,0 +1,1282 @@
+<resources>
+    <string name="app_name">Appartners</string>
+
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="city_Array">
+
+        <item>ABU JUWEIID             </item>
+        <item>ABU GHOSH                </item>
+        <item>ABU SINAN                </item>
+        <item>ABU SUREIHAN             </item>
+        <item>ABU  ABDUN               </item>
+        <item>ABU  AMMAR               </item>
+        <item>ABU  AMRE                </item>
+        <item>ABU QUREINAT             </item>
+        <item>ABU QUREINAT             </item>
+        <item>ABU RUBEIA              </item>
+        <item>ABU RUQAYYEQ             </item>
+        <item>ABU TULUL                </item>
+        <item>IBTIN                    </item>
+        <item>AVTALYON                 </item>
+        <item>AVIEL                   </item>
+        <item>AVIVIM                   </item>
+        <item>AVIGEDOR                 </item>
+        <item>AVIHAYIL                 </item>
+        <item>AVITAL                   </item>
+        <item>AVIEZER                 </item>
+        <item>ABBIRIM                  </item>
+        <item>EVEN YEHUDA              </item>
+        <item>EVEN MENAHEM             </item>
+        <item>EVEN SAPPIR              </item>
+        <item>EVEN SHEMUEL            </item>
+        <item>AVNE ETAN                </item>
+        <item>AVNE HEFEZ               </item>
+        <item>AVENAT                   </item>
+        <item>AVSHALOM                 </item>
+        <item>ADORA                    </item>
+        <item>ADDIRIM                  </item>
+        <item>ADAMIT                   </item>
+        <item>ADDERET                  </item>
+        <item>UDIM                     </item>
+        <item>ODEM                     </item>
+        <item>OHAD                     </item>
+        <item>UMM AL-FAHM              </item>
+        <item>UMM AL-QUTUF             </item>
+        <item>UMM BATIN                </item>
+        <item>OMEN                     </item>
+        <item>OMEZ                     </item>
+        <item>OFAQIM                   </item>
+        <item>OR HAGANUZ               </item>
+        <item>OR HANER                 </item>
+        <item>OR YEHUDA                </item>
+        <item>OR AQIVA                 </item>
+        <item>ORA                      </item>
+        <item>OROT                     </item>
+        <item>ORTAL                    </item>
+        <item>URIM                     </item>
+        <item>ORANIM                   </item>
+        <item>ORANIT                   </item>
+        <item>USHA                     </item>
+        <item>AZOR                     </item>
+        <item>AHAWA                    </item>
+        <item>AHUZZAM                  </item>
+        <item>AHUZZAT BARAQ            </item>
+        <item>AHIHUD                   </item>
+        <item>AHITUV                   </item>
+        <item>AHISAMAKH                </item>
+        <item>AHIEZER                 </item>
+        <item>ATRASH                   </item>
+        <item>IBBIM                    </item>
+        <item>EYAL                     </item>
+        <item>AYYELET HASHAHAR         </item>
+        <item>ELON                     </item>
+        <item>ELOT                     </item>
+        <item>ILANIYYA                 </item>
+        <item>ELAT                     </item>
+        <item>IRUS                     </item>
+        <item>ITAMAR                   </item>
+        <item>ETAN                     </item>
+        <item>ETANIM                   </item>
+        <item>IKSAL                    </item>
+        <item>AL SAYYID                </item>
+        <item>AL-AZY                   </item>
+        <item>AL-ARYAN                 </item>
+        <item>EL-ROM                   </item>
+        <item>ALUMMA                   </item>
+        <item>ALUMMOT                  </item>
+        <item>ALLON HAGALIL            </item>
+        <item>ELON MORE                </item>
+        <item>ALLON SHEVUT             </item>
+        <item>ALLONE ABBA              </item>
+        <item>ALLONE HABASHAN          </item>
+        <item>ALLONE YIZHAQ            </item>
+        <item>ALLONIM                  </item>
+        <item>ELI AL                   </item>
+        <item>ELIAV                    </item>
+        <item>ELYAKHIN                 </item>
+        <item>ELIFAZ                   </item>
+        <item>ELIFELET                 </item>
+        <item>ELYAQIM                  </item>
+        <item>ELYASHIV                 </item>
+        <item>ELISHAMA                 </item>
+        <item>ALMAGOR                  </item>
+        <item>ALMOG                    </item>
+        <item>ELAD                    </item>
+        <item>ELAZAR                  </item>
+        <item>ALFE MENASHE             </item>
+        <item>ELQOSH                   </item>
+        <item>ELQANA                   </item>
+        <item>EMUNIM                   </item>
+        <item>AMIRIM                   </item>
+        <item>AMNUN                    </item>
+        <item>AMAZYA                   </item>
+        <item>ANIAM                   </item>
+        <item>ASAD                     </item>
+        <item>ASEFAR                   </item>
+        <item>IBILLIN                 </item>
+        <item>ASAM                    </item>
+        <item>AFEINISH                 </item>
+        <item>AFIQ                     </item>
+        <item>AFIQIM                   </item>
+        <item>AFEQ                     </item>
+        <item>EFRAT                    </item>
+        <item>ARBEL                    </item>
+        <item>ARGAMAN                  </item>
+        <item>EREZ                     </item>
+        <item>ARIEL                   </item>
+        <item>ARSUF                    </item>
+        <item>ESHBOL                   </item>
+        <item>NAHAL ESHBAL             </item>
+        <item>ASHDOD                   </item>
+        <item>ASHDOT YAAQOV IHUD      </item>
+        <item>ASHDOT YAAQOV MEUH     </item>
+        <item>ESHHAR                   </item>
+        <item>ESHKOLOT                 </item>
+        <item>ESHEL HANASI             </item>
+        <item>ASHALIM                  </item>
+        <item>ASHQELON                 </item>
+        <item>ASHERAT                  </item>
+        <item>ESHTAOL                 </item>
+        <item>ETGAR                    </item>
+        <item>BAQA AL-GHARBIYYE        </item>
+        <item>BEER ORA                </item>
+        <item>BEER GANNIM              </item>
+        <item>BEER TUVEYA             </item>
+        <item>BEER YAAQOV            </item>
+        <item>BEER MILKA              </item>
+        <item>BEER SHEVA              </item>
+        <item>BEEROT YIZHAQ           </item>
+        <item>BEEROTAYIM              </item>
+        <item>BEERI                   </item>
+        <item>BUSTAN HAGALIL           </item>
+        <item>BUEINE-NUJEIDAT         </item>
+        <item>BUQATA                  </item>
+        <item>BURGETA                  </item>
+        <item>BAHAN                    </item>
+        <item>BITHA                    </item>
+        <item>BIZZARON                 </item>
+        <item>BIR EL-MAKSUR            </item>
+        <item>BIR HADAGE               </item>
+        <item>BIRIYYA                  </item>
+        <item>BET OREN                 </item>
+        <item>BET EL                   </item>
+        <item>BET ELAZARI             </item>
+        <item>BET ALFA                 </item>
+        <item>BET ARYE                 </item>
+        <item>BET BERL                 </item>
+        <item>BEIT JANN                </item>
+        <item>BET GUVRIN               </item>
+        <item>BET GAMLIEL             </item>
+        <item>BET DAGAN                </item>
+        <item>BET HAGADDI              </item>
+        <item>BET HALEVI               </item>
+        <item>BET HILLEL               </item>
+        <item>BET HAEMEQ               </item>
+        <item>BET HAARAVA              </item>
+        <item>BET HASHITTA             </item>
+        <item>BET ZEID                 </item>
+        <item>BET ZAYIT                </item>
+        <item>BET ZERA                 </item>
+        <item>BET HORON                </item>
+        <item>BET HERUT                </item>
+        <item>BET HILQIYYA             </item>
+        <item>BET HANAN                </item>
+        <item>BET HANANYA              </item>
+        <item>BET HASHMONAY            </item>
+        <item>BET YEHOSHUA             </item>
+        <item>BET YOSEF                </item>
+        <item>BET YANNAY               </item>
+        <item>BET YIZHAQ-SH. HEFER     </item>
+        <item>BET LEHEM HAGELILIT      </item>
+        <item>BET MEIR                </item>
+        <item>BET NEHEMYA              </item>
+        <item>BET NIR                  </item>
+        <item>BET NEQOFA               </item>
+        <item>BET OVED                 </item>
+        <item>BET UZZIEL              </item>
+        <item>BET EZRA                 </item>
+        <item>BET ARIF                 </item>
+        <item>BET ZEVI                 </item>
+        <item>BET QAMA                 </item>
+        <item>BET QESHET               </item>
+        <item>BET RABBAN               </item>
+        <item>BET RIMMON               </item>
+        <item>BET SHEAN               </item>
+        <item>BET SHEMESH              </item>
+        <item>BET SHEARIM             </item>
+        <item>BET SHIQMA               </item>
+        <item>BITAN AHARON             </item>
+        <item>BETAR ILLIT              </item>
+        <item>BALFURIYYA               </item>
+        <item>BEN ZAKKAY               </item>
+        <item>BEN AMMI                 </item>
+        <item>BEN SHEMEN K.NOAR       </item>
+        <item>BEN SHEMEN  MOSHAV       </item>
+        <item>BENE BERAQ               </item>
+        <item>BNE DKALIM               </item>
+        <item>BENE DAROM               </item>
+        <item>BENE DEROR               </item>
+        <item>BENE YEHUDA              </item>
+        <item>BENE NEZARIM             </item>
+        <item>BENE ATAROT              </item>
+        <item>BENE AYISH               </item>
+        <item>BENE ZIYYON              </item>
+        <item>BENE REEM               </item>
+        <item>BENAYA                   </item>
+        <item>BINYAMINA                </item>
+        <item>BASMA                    </item>
+        <item>BASMAT TABUN            </item>
+        <item>BI NE                    </item>
+        <item>BAZRA                    </item>
+        <item>BEZET                    </item>
+        <item>BEQOA                    </item>
+        <item>BEQAOT                  </item>
+        <item>BAR GIYYORA              </item>
+        <item>BAR YOHAY                </item>
+        <item>BRUKHIN                  </item>
+        <item>BEROR HAYIL              </item>
+        <item>BEROSH                   </item>
+        <item>BERAKHA                  </item>
+        <item>BEREKHYA                 </item>
+        <item>BARAM                   </item>
+        <item>BARAQ                    </item>
+        <item>BARQAY                   </item>
+        <item>BARQAN                   </item>
+        <item>BAREQET                  </item>
+        <item>BAT HADAR                </item>
+        <item>BAT HEN                  </item>
+        <item>BAT HEFER                </item>
+        <item>BAT HAZOR                </item>
+        <item>BAT YAM                  </item>
+        <item>BAT AYIN                 </item>
+        <item>BAT SHELOMO              </item>
+        <item>JUDEIDE-MAKER            </item>
+        <item>JULIS                    </item>
+        <item>JALJULYE                 </item>
+        <item>JUNNABIB                 </item>
+        <item>JISR AZ-ZARQA            </item>
+        <item>JISH GUSH HALAV          </item>
+        <item>JAAT                     </item>
+        <item>GEULE TEMAN             </item>
+        <item>GEULIM                  </item>
+        <item>GEALYA                  </item>
+        <item>GEVULOT                  </item>
+        <item>GEVIM                    </item>
+        <item>GEVA                     </item>
+        <item>GEVA BINYAMIN            </item>
+        <item>GEVA  KARMEL             </item>
+        <item>GIVOLIM                 </item>
+        <item>GIVON HAHADASHA         </item>
+        <item>GEVAOT BAR              </item>
+        <item>GIVAT AVNI              </item>
+        <item>GIVAT ELA               </item>
+        <item>GIVAT BRENNER           </item>
+        <item>GIVAT HASHELOSHA        </item>
+        <item>GIVAT ZEEV             </item>
+        <item>GIVAT HEN               </item>
+        <item>GIVAT HAYYIM  IHUD      </item>
+        <item>GIVAT HAYYIM MEUHA     </item>
+        <item>GIVAT YOAV             </item>
+        <item>GIVAT YEARIM           </item>
+        <item>GIVAT YESHAYAHU        </item>
+        <item>GIVAT KOAH              </item>
+        <item>GIVAT NILI              </item>
+        <item>GIVAT OZ                </item>
+        <item>GIVAT SHEMUEL          </item>
+        <item>GIVAT SHEMESH           </item>
+        <item>GIVAT SHAPPIRA          </item>
+        <item>GIVATI                  </item>
+        <item>GIVATAYIM               </item>
+        <item>GEVARAM                 </item>
+        <item>GEVAT                    </item>
+        <item>GADOT                    </item>
+        <item>GADISH                   </item>
+        <item>GIDONA                  </item>
+        <item>GEDERA                   </item>
+        <item>GONEN                    </item>
+        <item>GOREN                    </item>
+        <item>GORNOT HAGALIL           </item>
+        <item>GAZIT                    </item>
+        <item>GEZER                    </item>
+        <item>GEA                     </item>
+        <item>GIBBETON                 </item>
+        <item>GIZO                     </item>
+        <item>GILON                    </item>
+        <item>GILAT                    </item>
+        <item>GINNOSAR                 </item>
+        <item>GINNEGAR                 </item>
+        <item>GINNATON                 </item>
+        <item>GITTA                    </item>
+        <item>GITTIT                   </item>
+        <item>GALON                   </item>
+        <item>GILGAL                   </item>
+        <item>GELIL YAM                </item>
+        <item>EVEN YIZHAQ GALED       </item>
+        <item>GIMZO                    </item>
+        <item>GAN HADAROM              </item>
+        <item>GAN HASHOMERON           </item>
+        <item>GAN HAYYIM               </item>
+        <item>GAN YOSHIYYA             </item>
+        <item>GAN YAVNE                </item>
+        <item>GAN NER                  </item>
+        <item>GAN SOREQ                </item>
+        <item>GAN SHELOMO              </item>
+        <item>GAN SHEMUEL             </item>
+        <item>GANNOT                   </item>
+        <item>GANNOT HADAR             </item>
+        <item>GANNE HADAR              </item>
+        <item>GANNE TAL                </item>
+        <item>GANNE YOHANAN            </item>
+        <item>GANNE MODIIN             </item>
+        <item>GANNE AM                 </item>
+        <item>GANNE TIQWA              </item>
+        <item>GAASH                   </item>
+        <item>GATON                   </item>
+        <item>GEFEN                    </item>
+        <item>GEROFIT                  </item>
+        <item>GESHUR                   </item>
+        <item>GESHER                   </item>
+        <item>GESHER HAZIW             </item>
+        <item>GAT QIBBUZ               </item>
+        <item>GAT RIMMON               </item>
+        <item>DALIYAT AL-KARMEL        </item>
+        <item>DEVORA                   </item>
+        <item>DABBURYE                 </item>
+        <item>DEVIRA                   </item>
+        <item>DAVERAT                  </item>
+        <item>DEGANYA ALEF             </item>
+        <item>DEGANYA BET              </item>
+        <item>DOVEV                    </item>
+        <item>DOLEV                    </item>
+        <item>DOR                      </item>
+        <item>DOROT                    </item>
+        <item>DAHI                     </item>
+        <item>DEIR AL-ASAD             </item>
+        <item>DEIR HANNA               </item>
+        <item>DEIR RAFAT               </item>
+        <item>DIMONA                   </item>
+        <item>DISHON                   </item>
+        <item>DALIYYA                  </item>
+        <item>DALTON                   </item>
+        <item>DEMEIDE                  </item>
+        <item>DAN                      </item>
+        <item>DAFNA                    </item>
+        <item>DEQEL                    </item>
+        <item>DERIGAT                 </item>
+        <item>HAON                     </item>
+        <item>HABONIM                  </item>
+        <item>HAGOSHERIM               </item>
+        <item>HADAR AM                 </item>
+        <item>HOD HASHARON             </item>
+        <item>HODIYYA                  </item>
+        <item>HODAYOT                  </item>
+        <item>HAWASHLA                 </item>
+        <item>HUZAYYEL                 </item>
+        <item>HOSHAAYA                </item>
+        <item>HAZOREA                  </item>
+        <item>HAZOREIM                </item>
+        <item>HAHOTERIM                </item>
+        <item>HAYOGEV                  </item>
+        <item>HILLA                    </item>
+        <item>HAMAPIL                 </item>
+        <item>HASOLELIM                </item>
+        <item>HAOGEN                   </item>
+        <item>HAR ADAR                 </item>
+        <item>HAR GILLO                </item>
+        <item>HAR AMASA                </item>
+        <item>HAREL                   </item>
+        <item>HARDUF                   </item>
+        <item>HERZELIYYA               </item>
+        <item>HARARIT                  </item>
+        <item>WERED YERIHO             </item>
+        <item>WARDON                   </item>
+        <item>ZABARGA                  </item>
+        <item>ZAVDIEL                 </item>
+        <item>ZOHAR                    </item>
+        <item>ZIQIM                    </item>
+        <item>ZETAN                    </item>
+        <item>ZIKHRON YAAQOV          </item>
+        <item>ZEKHARYA                 </item>
+        <item>ZEMER                    </item>
+        <item>ZIMRAT                   </item>
+        <item>ZANOAH                   </item>
+        <item>ZERUA                   </item>
+        <item>ZARZIR                   </item>
+        <item>ZERAHYA                  </item>
+        <item>KHAWALED                 </item>
+        <item>KHAWALED                 </item>
+        <item>HAVAZZELET HASHARON      </item>
+        <item>HEVER                    </item>
+        <item>                         </item>
+        <item>HAGOR                    </item>
+        <item>HAGGAI                   </item>
+        <item>HOGLA                    </item>
+        <item>HAD-NES                  </item>
+        <item>HADID                    </item>
+        <item>HADERA                   </item>
+        <item>HUJEIRAT  DAHRA          </item>
+        <item>HULDA                    </item>
+        <item>HOLON                    </item>
+        <item>HOLIT                    </item>
+        <item>HULATA                   </item>
+        <item>HOSEN                    </item>
+        <item>HUSSNIYYA                </item>
+        <item>HOFIT                    </item>
+        <item>HUQOQ                    </item>
+        <item>HURA                     </item>
+        <item>HURFEISH                 </item>
+        <item>HORESHIM                 </item>
+        <item>HAZON                    </item>
+        <item>HIBBAT ZIYYON            </item>
+        <item>HINNANIT                 </item>
+        <item>HAIFA                    </item>
+        <item>HERUT                    </item>
+        <item>HALUZ                    </item>
+        <item>HALLAMISH                </item>
+        <item>HELEZ                    </item>
+        <item>HAMAM                    </item>
+        <item>HEMED                    </item>
+        <item>HAMADYA                  </item>
+        <item>NAHAL HEMDAT             </item>
+        <item>HAMRA                    </item>
+        <item>HANNIEL                 </item>
+        <item>HANITA                   </item>
+        <item>HANNATON                 </item>
+        <item>HASPIN                   </item>
+        <item>HAFEZ HAYYIM             </item>
+        <item>HEFZI-BAH                </item>
+        <item>HAZAV                    </item>
+        <item>HAZEVA                   </item>
+        <item>HAZOR HAGELILIT          </item>
+        <item>HAZOR-ASHDOD             </item>
+        <item>HAZAR BEEROTAYIM        </item>
+        <item>HAZROT HULDA             </item>
+        <item>HAZROT YASAF             </item>
+        <item>HAZROT KOAH              </item>
+        <item>HAZERIM                  </item>
+        <item>HEREV LEET              </item>
+        <item>HARUZIM                  </item>
+        <item>HARISH                   </item>
+        <item>HERMESH                  </item>
+        <item>HARASHIM                 </item>
+        <item>HASHMONAIM              </item>
+        <item>TIBERIAS                 </item>
+        <item>TUBA-ZANGARIYYE          </item>
+        <item>TURAN                   </item>
+        <item>TAYIBE                   </item>
+        <item>TAYIBE BAEMEQ            </item>
+        <item>TIRE                     </item>
+        <item>TIRAT YEHUDA             </item>
+        <item>TIRAT KARMEL             </item>
+        <item>TIRAT ZEVI               </item>
+        <item>TAL SHAHAR               </item>
+        <item>TAL-EL                   </item>
+        <item>TELALIM                  </item>
+        <item>TALMON                   </item>
+        <item>TAMRA                    </item>
+        <item>TAMRA  YIZREEL          </item>
+        <item>TENE                     </item>
+        <item>TEFAHOT                  </item>
+        <item>YANUH-JAT                </item>
+        <item>YEVUL                    </item>
+        <item>YAVNEEL                 </item>
+        <item>YAVNE                    </item>
+        <item>YAGUR                    </item>
+        <item>YAGEL                    </item>
+        <item>YAD BINYAMIN             </item>
+        <item>YAD HASHEMONA            </item>
+        <item>YAD HANNA                </item>
+        <item>YAD MORDEKHAY            </item>
+        <item>YAD NATAN                </item>
+        <item>YAD RAMBAM               </item>
+        <item>YEDIDA                   </item>
+        <item>YEHUD-MONOSON            </item>
+        <item>YAHEL                    </item>
+        <item>YUVAL                    </item>
+        <item>YUVALIM                  </item>
+        <item>YODEFAT                  </item>
+        <item>YONATAN                  </item>
+        <item>YOSHIVYA                 </item>
+        <item>YIZREEL                 </item>
+        <item>YEHIAM                  </item>
+        <item>YOTVATA                  </item>
+        <item>YITAV                    </item>
+        <item>YAKHINI                  </item>
+        <item>YANUV                    </item>
+        <item>YINNON                   </item>
+        <item>YESUD HAMAALA           </item>
+        <item>YESODOT                  </item>
+        <item>YASUR                   </item>
+        <item>YAAD                    </item>
+        <item>YAEL                    </item>
+        <item>YEAF                    </item>
+        <item>YAARA                   </item>
+        <item>YAFI                     </item>
+        <item>YAFIT                    </item>
+        <item>YIFAT                   </item>
+        <item>YIFTAH                   </item>
+        <item>YIZHAR                   </item>
+        <item>YAZIZ                    </item>
+        <item>YAQUM                    </item>
+        <item>YAQIR                    </item>
+        <item>YOQNEAM MOSHAVA         </item>
+        <item>YOQNEAM ILLIT           </item>
+        <item>YIRON                   </item>
+        <item>YARDENA                  </item>
+        <item>YEROHAM                  </item>
+        <item>JERUSALEM                </item>
+        <item>YARHIV                   </item>
+        <item>YIRKA                    </item>
+        <item>YARQONA                  </item>
+        <item>YESHA                    </item>
+        <item>YISHI                   </item>
+        <item>YASHRESH                 </item>
+        <item>YATED                    </item>
+        <item>                         </item>
+        <item>KABUL                    </item>
+        <item>KAOKAB ABU AL-HIJA       </item>
+        <item>KABRI                    </item>
+        <item>KADOORIE                 </item>
+        <item>KADDITA                  </item>
+        <item>KOKHAV HASHAHAR          </item>
+        <item>KOKHAV YAIR             </item>
+        <item>KOKHAV YAAQOV           </item>
+        <item>KOKHAV MIKHAEL          </item>
+        <item>KORAZIM                  </item>
+        <item>KAHAL                    </item>
+        <item>KOCHLEA                  </item>
+        <item>KISSUFIM                 </item>
+        <item>KISHOR                   </item>
+        <item>KELIL                    </item>
+        <item>KALLANIT                 </item>
+        <item>                         </item>
+        <item>KEMEHIN                  </item>
+        <item>KAMMON                   </item>
+        <item>KANNOT                   </item>
+        <item>KANAF                    </item>
+        <item>KINNERET MOSHAVA         </item>
+        <item>KINNERET QEVUZA          </item>
+        <item>KUSEIFE                  </item>
+        <item>KESALON                  </item>
+        <item>KISRA-SUMEI              </item>
+        <item>KAABIYYE-TABBASH-HA     </item>
+        <item>KEFAR AVIV               </item>
+        <item>KEFAR ADUMMIM            </item>
+        <item>KEFAR URIYYA             </item>
+        <item>KEFAR AHIM               </item>
+        <item>KEFAR BIALIK             </item>
+        <item>KEFAR BILU               </item>
+        <item>KEFAR BLUM               </item>
+        <item>KEFAR BIN NUN            </item>
+        <item>KAFAR BARA               </item>
+        <item>KEFAR BARUKH             </item>
+        <item>KEFAR GIDON             </item>
+        <item>KEFAR GALLIM             </item>
+        <item>KEFAR GLIKSON            </item>
+        <item>KEFAR GILADI            </item>
+        <item>KEFAR DANIYYEL           </item>
+        <item>KEFAR HAORANIM           </item>
+        <item>KEFAR HAHORESH           </item>
+        <item>KEFAR HAMAKKABI          </item>
+        <item>KEFAR HANAGID            </item>
+        <item>KEFAR HANOAR HADATI     </item>
+        <item>KEFAR HANASI             </item>
+        <item>KEFAR HESS               </item>
+        <item>KEFAR HAROE             </item>
+        <item>KEFAR HARIF              </item>
+        <item>KEFAR VITKIN             </item>
+        <item>KEFAR WARBURG            </item>
+        <item>KEFAR WERADIM            </item>
+        <item>KEFAR ZOHARIM            </item>
+        <item>KEFAR ZETIM              </item>
+        <item>KEFAR HABAD              </item>
+        <item>KEFAR HOSHEN             </item>
+        <item>KEFAR HITTIM             </item>
+        <item>KEFAR HAYYIM             </item>
+        <item>KEFAR HANANYA            </item>
+        <item>KEFAR HASIDIM ALEF       </item>
+        <item>KEFAR HASIDIM BET        </item>
+        <item>KEFAR HARUV              </item>
+        <item>KEFAR TRUMAN             </item>
+        <item>KAFAR YASIF              </item>
+        <item>YEDIDYA                  </item>
+        <item>KEFAR YEHOSHUA           </item>
+        <item>KEFAR YONA               </item>
+        <item>KEFAR YEHEZQEL           </item>
+        <item>KEFAR YABEZ             </item>
+        <item>KAFAR KAMA               </item>
+        <item>KAFAR KANNA              </item>
+        <item>KEFAR MONASH             </item>
+        <item>KEFAR MAYMON             </item>
+        <item>KEFAR MALAL              </item>
+        <item>KAFAR MANDA              </item>
+        <item>KEFAR MENAHEM            </item>
+        <item>KEFAR MASARYK            </item>
+        <item>KAFAR MISR               </item>
+        <item>KEFAR MORDEKHAY          </item>
+        <item>KEFAR NETTER             </item>
+        <item>KEFAR SZOLD              </item>
+        <item>KEFAR SAVA               </item>
+        <item>KEFAR SILVER             </item>
+        <item>KEFAR SIRKIN             </item>
+        <item>KEFAR AVODA              </item>
+        <item>KEFAR AZZA               </item>
+        <item>KEFAR EZYON              </item>
+        <item>KEFAR PINES              </item>
+        <item>KAFAR QASEM              </item>
+        <item>KEFAR KISH               </item>
+        <item>KAFAR QARA               </item>
+        <item>KEFAR ROSH HANIQRA       </item>
+        <item>KEFAR ROZENWALD ZAR.     </item>
+        <item>KEFAR RUPPIN             </item>
+        <item>KEFAR RUT                </item>
+        <item>KEFAR SHAMMAY            </item>
+        <item>KEFAR SHEMUEL           </item>
+        <item>KEFAR SHEMARYAHU         </item>
+        <item>KEFAR TAVOR              </item>
+        <item>KEFAR TAPPUAH            </item>
+        <item>KARE DESHE               </item>
+        <item>KARKOM                   </item>
+        <item>KEREM BEN ZIMRA          </item>
+        <item>KEREM BEN SHEMEN         </item>
+        <item>KEREM YAVNE YESHIVA      </item>
+        <item>KEREM MAHARAL            </item>
+        <item>KEREM SHALOM             </item>
+        <item>KARME YOSEF              </item>
+        <item>KARME ZUR                </item>
+        <item>KARME QATIF              </item>
+        <item>KARMIEL                 </item>
+        <item>KARMIYYA                 </item>
+        <item>KERAMIM                  </item>
+        <item>KARMEL                   </item>
+        <item>                         </item>
+        <item>LAVON                    </item>
+        <item>LAVI                     </item>
+        <item>LIVNIM                   </item>
+        <item>LAHAV                    </item>
+        <item>LAHAVOT HABASHAN         </item>
+        <item>LAHAVOT HAVIVA           </item>
+        <item>LEHAVIM                  </item>
+        <item>LOD                      </item>
+        <item>LUZIT                    </item>
+        <item>LOHAME HAGETAOT         </item>
+        <item>LOTEM                    </item>
+        <item>LOTAN                    </item>
+        <item>LIMAN                    </item>
+        <item>LAKHISH                  </item>
+        <item>LAPPID                   </item>
+        <item>LAPPIDOT                 </item>
+        <item>LAQYE                    </item>
+        <item>MAOR                    </item>
+        <item>MEIR SHEFEYA            </item>
+        <item>MEVO BETAR               </item>
+        <item>MEVO DOTAN               </item>
+        <item>MEVO HORON               </item>
+        <item>MEVO HAMMA               </item>
+        <item>MEVO MODIIM             </item>
+        <item>MEVOOT YAM              </item>
+        <item>MABBUIM                 </item>
+        <item>MIVTAHIM                 </item>
+        <item>MAVQIIM                 </item>
+        <item>MEVASSERET ZIYYON        </item>
+        <item>MAJD AL-KURUM            </item>
+        <item>MAJDAL SHAMS             </item>
+        <item>MUGHAR                   </item>
+        <item>MEGADIM                  </item>
+        <item>MIGDAL                   </item>
+        <item>MIGDAL HAEMEQ            </item>
+        <item>MIGDAL OZ                </item>
+        <item>MIGDALIM                 </item>
+        <item>MEGIDDO                  </item>
+        <item>MAGGAL                   </item>
+        <item>MAGEN                    </item>
+        <item>MAGEN SHAUL             </item>
+        <item>MAGSHIMIM                </item>
+        <item>MIDRAKH OZ               </item>
+        <item>MIDRESHET BEN GURION     </item>
+        <item>MIDRESHET RUPPIN         </item>
+        <item>MODIIN ILLIT            </item>
+        <item>MODIIN-MAKKABBIM-RE     </item>
+        <item>MOLEDET                  </item>
+        <item>MOZA ILLIT               </item>
+        <item>MUQEIBLE                 </item>
+        <item>MORAN                    </item>
+        <item>MORESHET                 </item>
+        <item>MAZOR                    </item>
+        <item>MAZKERET BATYA           </item>
+        <item>MIZRA                    </item>
+        <item>MAZRAA                  </item>
+        <item>MEHOLA                   </item>
+        <item>MAHANE HILLA             </item>
+        <item>MAHANE TALI              </item>
+        <item>MAHANE YEHUDIT           </item>
+        <item>MAHANE YOKHVED           </item>
+        <item>MAHANE YAFA              </item>
+        <item>MAHANE YATTIR            </item>
+        <item>MAHANE MIRYAM            </item>
+        <item>MAHANE TEL NOF           </item>
+        <item>MAHANAYIM                </item>
+        <item>MAHSEYA                  </item>
+        <item>METULA                   </item>
+        <item>MATTA                    </item>
+        <item>ME AMMI                  </item>
+        <item>METAV                    </item>
+        <item>MEISER                   </item>
+        <item>MEZAR                    </item>
+        <item>MERAV                    </item>
+        <item>MERON                    </item>
+        <item>MESHAR                   </item>
+        <item>METAR                    </item>
+        <item>MEKHORA                  </item>
+        <item>MAKCHUL                  </item>
+        <item>MIKHMORET                </item>
+        <item>MIKHMANNIM               </item>
+        <item>MELEA                   </item>
+        <item>MELILOT                  </item>
+        <item>MALKIYYA                 </item>
+        <item>MALKISHUA                </item>
+        <item>MENUHA                   </item>
+        <item>MANOF                    </item>
+        <item>MANOT                    </item>
+        <item>MENAHEMYA                </item>
+        <item>MENNARA                  </item>
+        <item>MANSHIYYET ZABDA         </item>
+        <item>MASSAD                   </item>
+        <item>MASSADA                  </item>
+        <item>MESILLOT                 </item>
+        <item>MESILLAT ZIYYON          </item>
+        <item>MASLUL                   </item>
+        <item>MASADE                  </item>
+        <item>MASUDIN AL-AZAZME      </item>
+        <item>MABAROT                 </item>
+        <item>MAGALIM                 </item>
+        <item>MAAGAN                  </item>
+        <item>MAAGAN MIKHAEL         </item>
+        <item>MAOZ HAYYIM             </item>
+        <item>MAON                    </item>
+        <item>MEONA                   </item>
+        <item>MIELYA                  </item>
+        <item>MAYAN BARUKH            </item>
+        <item>MAYAN ZEVI              </item>
+        <item>MAALE ADUMMIM           </item>
+        <item>MAALE EFRAYIM           </item>
+        <item>MAALE GILBOA            </item>
+        <item>MAALE GAMLA             </item>
+        <item>MAALE HAHAMISHA         </item>
+        <item>MAALE LEVONA            </item>
+        <item>MAALE MIKHMAS           </item>
+        <item>MAALE IRON              </item>
+        <item>MAALE AMOS              </item>
+        <item>MAALE SHOMERON          </item>
+        <item>MAALOT-TARSHIHA         </item>
+        <item>MAANIT                  </item>
+        <item>MAAS                    </item>
+        <item>MEFALLESIM               </item>
+        <item>MEZADOT YEHUDA           </item>
+        <item>MAZZUVA                  </item>
+        <item>MAZLIAH                  </item>
+        <item>MIZPA                    </item>
+        <item>MIZPE AVIV               </item>
+        <item>MITSPE ILAN              </item>
+        <item>MIZPE YERIHO             </item>
+        <item>MIZPE NETOFA             </item>
+        <item>MIZPE RAMON              </item>
+        <item>MIZPE SHALEM             </item>
+        <item>MEZER                    </item>
+        <item>MIQWE YISRAEL           </item>
+        <item>MARGALIYYOT              </item>
+        <item>MEROM GOLAN              </item>
+        <item>MERHAV AM                </item>
+        <item>MERHAVYA MOSHAV          </item>
+        <item>MERHAVYA QIBBUZ          </item>
+        <item>MERKAZ SHAPPIRA          </item>
+        <item>MASHABBE SADE           </item>
+        <item>MISGAV DOV               </item>
+        <item>MISGAV AM                </item>
+        <item>MESHHED                  </item>
+        <item>MASSUA                  </item>
+        <item>MASSUOT YIZHAQ           </item>
+        <item>MASKIYYOT                </item>
+        <item>MISHMAR AYYALON          </item>
+        <item>MISHMAR DAWID            </item>
+        <item>MISHMAR HAYARDEN         </item>
+        <item>MISHMAR HANEGEV          </item>
+        <item>MISHMAR HAEMEQ           </item>
+        <item>MISHMAR HASHIVA         </item>
+        <item>MISHMAR HASHARON         </item>
+        <item>MISHMAROT                </item>
+        <item>MISHMERET                </item>
+        <item>MASHEN                  </item>
+        <item>MATTAN                   </item>
+        <item>MATTAT                   </item>
+        <item>MATTITYAHU               </item>
+        <item>NEOT GOLAN              </item>
+        <item>NEOT HAKIKKAR           </item>
+        <item>NEOT MORDEKHAY          </item>
+        <item>SHIZZAFON                </item>
+        <item>NAURA                   </item>
+        <item>NEVATIM                  </item>
+        <item>NEGBA                    </item>
+        <item>NEGOHOT                  </item>
+        <item>NEHORA                   </item>
+        <item>NAHALAL                  </item>
+        <item>NAHARIYYA                </item>
+        <item>NOV                      </item>
+        <item>NOGAH                    </item>
+        <item>NAVE                     </item>
+        <item>NEWE AVOT                </item>
+        <item>NEWE UR                  </item>
+        <item>NEWE ATIV                </item>
+        <item>NEWE ILAN                </item>
+        <item>NEWE ETAN                </item>
+        <item>NEWE DANIYYEL            </item>
+        <item>NEWE ZOHAR               </item>
+        <item>NEWE ZIV                 </item>
+        <item>NEWE HARIF               </item>
+        <item>NEWE YAM                 </item>
+        <item>NEWE YAMIN               </item>
+        <item>NEWE YARAQ               </item>
+        <item>NEWE MIVTAH              </item>
+        <item>NEWE MIKHAEL            </item>
+        <item>NEWE SHALOM              </item>
+        <item>NOAM                    </item>
+        <item>NOF AYYALON              </item>
+        <item>NOFIM                    </item>
+        <item>NOFIT                    </item>
+        <item>NOFEKH                   </item>
+        <item>NOQEDIM                  </item>
+        <item>NORDIYYA                 </item>
+        <item>NURIT                    </item>
+        <item>NEHUSHA                  </item>
+        <item>NAHAL OZ                 </item>
+        <item>NAHALA                   </item>
+        <item>NAHALIEL                </item>
+        <item>NEHALIM                  </item>
+        <item>NAHAM                    </item>
+        <item>NAHEF                    </item>
+        <item>NAHSHOLIM                </item>
+        <item>NAHSHON                  </item>
+        <item>NAHSHONIM                </item>
+        <item>NETUA                   </item>
+        <item>NATUR                    </item>
+        <item>NETA                     </item>
+        <item>NETAIM                  </item>
+        <item>NATAF                    </item>
+        <item>NEIN                     </item>
+        <item>NILI                     </item>
+        <item>NIZZAN                   </item>
+        <item>NIZZAN B                 </item>
+        <item>NIZZANA  QEHILAT HIN     </item>
+        <item>NIZZANE SINAY            </item>
+        <item>NIZZANE OZ               </item>
+        <item>NIZZANIM                 </item>
+        <item>NIR ELIYYAHU             </item>
+        <item>NIR BANIM                </item>
+        <item>NIR GALLIM               </item>
+        <item>NIR DAWID  TEL AMAL      </item>
+        <item>NIR HEN                  </item>
+        <item>NIR YAFE                 </item>
+        <item>NIR YIZHAQ               </item>
+        <item>NIR YISRAEL             </item>
+        <item>NIR MOSHE                </item>
+        <item>NIR OZ                   </item>
+        <item>NIR AM                   </item>
+        <item>NIR EZYON                </item>
+        <item>NIR AQIVA                </item>
+        <item>NIR ZEVI                 </item>
+        <item>NIRIM                    </item>
+        <item>NIRIT                    </item>
+        <item>NIRAN                    </item>
+        <item>NIMROD                   </item>
+        <item>NES HARIM                </item>
+        <item>NES AMMIM                </item>
+        <item>NES ZIYYONA              </item>
+        <item>NEURIM                  </item>
+        <item>NAALE                   </item>
+        <item>NAAMA                    </item>
+        <item>NAAN                    </item>
+        <item>NASASRA                  </item>
+        <item>NEZER HAZZANI            </item>
+        <item>NEZER SERENI             </item>
+        <item>NAZARETH                 </item>
+        <item>NAZERAT ILLIT            </item>
+        <item>NESHER                   </item>
+        <item>NETIV HAGEDUD            </item>
+        <item>NETIV HALAMED-HE         </item>
+        <item>NETIV HAASARA            </item>
+        <item>NETIV HASHAYYARA         </item>
+        <item>NETIVOT                  </item>
+        <item>NETANYA                  </item>
+        <item>SAJUR                    </item>
+        <item>SASA                     </item>
+        <item>SAVYON                   </item>
+        <item>SEGULA                   </item>
+        <item>SAWAID HAMRIYYE         </item>
+        <item>SAWAID  KAMANE          </item>
+        <item>SULAM                    </item>
+        <item>SUSEYA                   </item>
+        <item>SUFA                     </item>
+        <item>SAKHNIN                  </item>
+        <item>SAYYID                   </item>
+        <item>SALLAMA                  </item>
+        <item>SALIT                   </item>
+        <item>SAMAR                    </item>
+        <item>                         </item>
+        <item>SAAD                    </item>
+        <item>SAWA                    </item>
+        <item>SAAR                    </item>
+        <item>SAPPIR                   </item>
+        <item>SITRIYYA                 </item>
+        <item>GHAJAR                   </item>
+        <item>AVDON                    </item>
+        <item>EVRON                    </item>
+        <item>AGUR                     </item>
+        <item>ADI                      </item>
+        <item>ADANIM                   </item>
+        <item>UZA                      </item>
+        <item>UZEIR                    </item>
+        <item>OLESH                    </item>
+        <item>OMER                     </item>
+        <item>OFER                     </item>
+        <item>OFRA                     </item>
+        <item>OZEM                     </item>
+        <item>UQBI  BANU UQBA          </item>
+        <item>EZUZ                     </item>
+        <item>EZER                     </item>
+        <item>AZRIEL                  </item>
+        <item>AZARYA                   </item>
+        <item>AZRIQAM                  </item>
+        <item>ATAWNE                   </item>
+        <item>ATERET                   </item>
+        <item>IDDAN                    </item>
+        <item>EILABUN                  </item>
+        <item>AYANOT                   </item>
+        <item>ILUT                     </item>
+        <item>EN AYYALA                </item>
+        <item>EIN AL-ASAD              </item>
+        <item>EN GEV                   </item>
+        <item>EN GEDI                  </item>
+        <item>EN DOR                   </item>
+        <item>EN HABESOR               </item>
+        <item>EN HOD                   </item>
+        <item>EN HAHORESH              </item>
+        <item>EN HAMIFRAZ              </item>
+        <item>EN HANAZIV               </item>
+        <item>EN HAEMEQ                </item>
+        <item>EN HASHOFET              </item>
+        <item>EN HASHELOSHA            </item>
+        <item>EN WERED                 </item>
+        <item>EN ZIWAN                 </item>
+        <item>EIN HOD                  </item>
+        <item>EN HAZEVA                </item>
+        <item>EN HAROD  IHUD           </item>
+        <item>EN HAROD MEUHAD         </item>
+        <item>EN YAHAV                 </item>
+        <item>EN YAAQOV               </item>
+        <item>EN KAREM-B.S.HAQLAI     </item>
+        <item>EN KARMEL                </item>
+        <item>EIN MAHEL                </item>
+        <item>EIN NAQQUBA              </item>
+        <item>EN IRON                  </item>
+        <item>EN ZURIM                 </item>
+        <item>EIN QINIYYE              </item>
+        <item>EIN RAFA                 </item>
+        <item>EN SHEMER                </item>
+        <item>EN SARID                 </item>
+        <item>EN TAMAR                 </item>
+        <item>ENAT                     </item>
+        <item>IR OVOT                  </item>
+        <item>AKKO                     </item>
+        <item>ALUMIM                   </item>
+        <item>ELI                      </item>
+        <item>ALE ZAHAV                </item>
+        <item>ALMA                     </item>
+        <item>ALMON                    </item>
+        <item>AMUQQA                   </item>
+        <item>AMMIHAY                  </item>
+        <item>AMMINADAV                </item>
+        <item>AMMIAD                  </item>
+        <item>AMMIOZ                  </item>
+        <item>AMMIQAM                  </item>
+        <item>AMIR                     </item>
+        <item>IMMANUEL                </item>
+        <item>AMQA                     </item>
+        <item>ENAV                     </item>
+        <item>ISIFYA                   </item>
+        <item>AFULA                    </item>
+        <item>EZ EFRAYIM               </item>
+        <item>ATSMON-SEGEV             </item>
+        <item>ARRABE                   </item>
+        <item>ARAMSHA                  </item>
+        <item>ARRAB AL NAIM            </item>
+        <item>ARAD                     </item>
+        <item>ARUGOT                   </item>
+        <item>ARARA                   </item>
+        <item>ARARA-BANEGEV           </item>
+        <item>ASERET                   </item>
+        <item>ATLIT                    </item>
+        <item>OTNIEL                  </item>
+        <item>PARAN                    </item>
+        <item>PEDUEL                  </item>
+        <item>PEDUYIM                  </item>
+        <item>PEDAYA                   </item>
+        <item>PORIYYA-KEFAR AVODA      </item>
+        <item>PORIYYA-NEWE OVED        </item>
+        <item>PORIYYA ILLIT            </item>
+        <item>FUREIDIS                 </item>
+        <item>PORAT                    </item>
+        <item>PATTISH                  </item>
+        <item>PELEKH                   </item>
+        <item>PALMAHIM                 </item>
+        <item>PENE HEVER               </item>
+        <item>PESAGOT                  </item>
+        <item>FASSUTA                  </item>
+        <item>PAAME TASHAZ            </item>
+        <item>PEZAEL                  </item>
+        <item>PEQIIN  BUQEIA         </item>
+        <item>PEQIIN HADASHA          </item>
+        <item>PARDES HANNA-KARKUR      </item>
+        <item>PARDESIYYA               </item>
+        <item>PAROD                    </item>
+        <item>PERAZON                  </item>
+        <item>PERI GAN                 </item>
+        <item>PETAH TIQWA              </item>
+        <item>PETAHYA                  </item>
+        <item>ZEELIM                  </item>
+        <item>ZVIYYA                   </item>
+        <item>ZIVON                   </item>
+        <item>ZOVA                     </item>
+        <item>ZOHAR                    </item>
+        <item>ZOFIYYA                  </item>
+        <item>ZUFIN                    </item>
+        <item>ZOFIT                    </item>
+        <item>ZOFAR                    </item>
+        <item>SHOSHANNAT HAAMAQIM    </item>
+        <item>MAHANE BILDAD            </item>
+        <item>ZUR HADASSA              </item>
+        <item>ZUR YIZHAQ               </item>
+        <item>ZUR MOSHE                </item>
+        <item>ZUR NATAN                </item>
+        <item>ZURIEL                  </item>
+        <item>ZURIT                    </item>
+        <item>ZIPPORI                  </item>
+        <item>ZELAFON                  </item>
+        <item>SANDALA                  </item>
+        <item>ZAFRIYYA                 </item>
+        <item>ZAFRIRIM                 </item>
+        <item>ZEFAT                    </item>
+        <item>ZERUFA                   </item>
+        <item>ZORA                    </item>
+        <item>QABBOA                  </item>
+        <item>QEVUZAT YAVNE            </item>
+        <item>QEDUMIM                  </item>
+        <item>QADIMA-ZORAN             </item>
+        <item>QEDMA                    </item>
+        <item>QIDMAT ZEVI              </item>
+        <item>QEDAR                    </item>
+        <item>QIDRON                   </item>
+        <item>QADDARIM                 </item>
+        <item>QUDEIRAT AS-SANI         </item>
+        <item>QAWAIN                  </item>
+        <item>QOMEMIYYUT               </item>
+        <item>QORANIT                  </item>
+        <item>QETURA                   </item>
+        <item>QESARIYYA                </item>
+        <item>QELAHIM                  </item>
+        <item>QALYA                    </item>
+        <item>QALANSAWE                </item>
+        <item>QELA                     </item>
+        <item>QAZIR                    </item>
+        <item>                         </item>
+        <item>QAZRIN                   </item>
+        <item>QIRYAT ONO               </item>
+        <item>QIRYAT ARBA              </item>
+        <item>QIRYAT ATTA              </item>
+        <item>QIRYAT BIALIK            </item>
+        <item>QIRYAT GAT               </item>
+        <item>QIRYAT TIVON            </item>
+        <item>QIRYAT YAM               </item>
+        <item>QIRYAT YEARIM           </item>
+        <item>QIRYAT YEARIM INSTI     </item>
+        <item>QIRYAT MOTZKIN           </item>
+        <item>QIRYAT MALAKHI          </item>
+        <item>QIRYAT NETAFIM           </item>
+        <item>QIRYAT ANAVIM            </item>
+        <item>QIRYAT EQRON             </item>
+        <item>QIRYAT SHELOMO           </item>
+        <item>QIRYAT SHEMONA           </item>
+        <item>QARNE SHOMERON           </item>
+        <item>QESHET                   </item>
+        <item>RAME                     </item>
+        <item>RAS AL-EIN               </item>
+        <item>RAS ALI                  </item>
+        <item>ROSH HAAYIN              </item>
+        <item>ROSH PINNA               </item>
+        <item>ROSH ZURIM               </item>
+        <item>RISHON LEZIYYON          </item>
+        <item>REVAVA                   </item>
+        <item>REVADIM                  </item>
+        <item>REVIVIM                  </item>
+        <item>RAVID                    </item>
+        <item>REGBA                    </item>
+        <item>REGAVIM                  </item>
+        <item>RAHAT                    </item>
+        <item>REWAHA                   </item>
+        <item>REWAYA                   </item>
+        <item>RUAH MIDBAR              </item>
+        <item>RUHAMA                   </item>
+        <item>RUMMANE                  </item>
+        <item>RUMAT HEIB               </item>
+        <item>ROI                     </item>
+        <item>ROTEM                    </item>
+        <item>REHOV                    </item>
+        <item>REHOVOT                  </item>
+        <item>REHELIM                  </item>
+        <item>REIHANIYYE               </item>
+        <item>REHAN                    </item>
+        <item>REINE                    </item>
+        <item>RIMMONIM                 </item>
+        <item>RINNATYA                 </item>
+        <item>REKHASIM                 </item>
+        <item>RAM-ON                   </item>
+        <item>RAMOT                    </item>
+        <item>RAMOT HASHAVIM           </item>
+        <item>RAMOT MEIR              </item>
+        <item>RAMOT MENASHE            </item>
+        <item>RAMOT NAFTALI            </item>
+        <item>RAMLA                    </item>
+        <item>RAMAT GAN                </item>
+        <item>RAMAT DAWID              </item>
+        <item>RAMAT HAKOVESH           </item>
+        <item>RAMAT HASHOFET           </item>
+        <item>RAMAT HASHARON           </item>
+        <item>RAMAT YOHANAN            </item>
+        <item>RAMAT YISHAY             </item>
+        <item>RAMAT MAGSHIMIM          </item>
+        <item>RAMAT ZEVI               </item>
+        <item>RAMAT RAZIEL            </item>
+        <item>RAMAT RAHEL              </item>
+        <item>RANNEN                   </item>
+        <item>REIM                    </item>
+        <item>RAANANA                 </item>
+        <item>RAQEFET                  </item>
+        <item>RISHPON                  </item>
+        <item>RESHAFIM                 </item>
+        <item>RETAMIM                  </item>
+        <item>SHEAR YASHUV            </item>
+        <item>SHAVE DAROM              </item>
+        <item>SHAVE ZIYYON             </item>
+        <item>SHAVE SHOMERON           </item>
+        <item>SHIBLI                   </item>
+        <item>SEGEV-SHALOM             </item>
+        <item>SEDE ILAN                </item>
+        <item>SEDE ELIYYAHU            </item>
+        <item>SEDE ELIEZER            </item>
+        <item>SEDE BOQER               </item>
+        <item>SEDE DAWID               </item>
+        <item>SEDE WARBURG             </item>
+        <item>SEDE YOAV               </item>
+        <item>SEDE YAAQOV             </item>
+        <item>SEDE YIZHAQ              </item>
+        <item>SEDE MOSHE               </item>
+        <item>SEDE NAHUM               </item>
+        <item>SEDE NEHEMYA             </item>
+        <item>SEDE NIZZAN              </item>
+        <item>SEDE UZZIYYAHU           </item>
+        <item>SEDE ZEVI                </item>
+        <item>SEDOT YAM                </item>
+        <item>SEDOT MIKHA              </item>
+        <item>SEDE AVRAHAM             </item>
+        <item>SEDE HEMED               </item>
+        <item>SEDE TERUMOT             </item>
+        <item>SHEDEMA                  </item>
+        <item>SHADMOT DEVORA           </item>
+        <item>SHADMOT MEHOLA           </item>
+        <item>SEDEROT                  </item>
+        <item>SHOEVA                  </item>
+        <item>SHUVA                    </item>
+        <item>SHOVAL                   </item>
+        <item>SHOHAM                   </item>
+        <item>SHOMERA                  </item>
+        <item>SHOMERIYYA               </item>
+        <item>SHOQEDA                  </item>
+        <item>SHORESH                  </item>
+        <item>SHORASHIM                </item>
+        <item>SHOSHANNAT HAAMAQIM      </item>
+        <item>SHEZOR                   </item>
+        <item>SHAHAR                   </item>
+        <item>SHAHARUT                 </item>
+        <item>SHIBBOLIM                </item>
+        <item>NAHAL SHITTIM            </item>
+        <item>SHEIKH DANNUN            </item>
+        <item>SHILO                    </item>
+        <item>SHILAT                   </item>
+        <item>SHEKHANYA                </item>
+        <item>SHALWA                   </item>
+        <item>SHALVA BAMIDBAR          </item>
+        <item>SHELUHOT                 </item>
+        <item>SHELOMI                  </item>
+        <item>SHLOMIT                  </item>
+        <item>SHAMIR                   </item>
+        <item>SHIMA                   </item>
+        <item>SHAMERAT                 </item>
+        <item>SHIMSHIT                 </item>
+        <item>SHANI                    </item>
+        <item>SENIR                    </item>
+        <item>SHAAB                   </item>
+        <item>SEORIM                  </item>
+        <item>SHAAL                   </item>
+        <item>SHAALVIM                </item>
+        <item>SHAAR EFRAYIM           </item>
+        <item>SHAAR HAGOLAN           </item>
+        <item>SHAAR HAAMAQIM          </item>
+        <item>SHAAR MENASHE           </item>
+        <item>SHAARE TIQWA            </item>
+        <item>SHEFAYIM                 </item>
+        <item>SHAFIR                   </item>
+        <item>SHEFER                   </item>
+        <item>SHEFARAM                </item>
+        <item>SHAQED                   </item>
+        <item>SHEQEF                   </item>
+        <item>SHARONA                  </item>
+        <item>LI-ON                    </item>
+        <item>SARID                    </item>
+        <item>SHARSHERET               </item>
+        <item>SHETULA                  </item>
+        <item>SHETULIM                 </item>
+        <item>TEASHUR                 </item>
+        <item>TIDHAR                   </item>
+        <item>TUVAL                    </item>
+        <item>TOMER                    </item>
+        <item>TUSHIYYA                 </item>
+        <item>TIMMORIM                 </item>
+        <item>TIROSH                   </item>
+        <item>TEL AVIV - YAFO          </item>
+        <item>TEL YOSEF                </item>
+        <item>TEL YIZHAQ               </item>
+        <item>TEL MOND                 </item>
+        <item>TEL ADASHIM              </item>
+        <item>TEL QAZIR                </item>
+        <item>TEL SHEVA                </item>
+        <item>TEL TEOMIM              </item>
+        <item>TELEM                    </item>
+        <item>TALME ELIYYAHU           </item>
+        <item>TALME ELAZAR            </item>
+        <item>TALME BILU               </item>
+        <item>TALME YOSEF              </item>
+        <item>TALME YEHIEL            </item>
+        <item>TALME YAFE               </item>
+        <item>TELAMIM                  </item>
+        <item>TIMRAT                   </item>
+        <item>TENUVOT                  </item>
+        <item>TAOZ                    </item>
+        <item>TIFRAH                   </item>
+        <item>TEQUMA                   </item>
+        <item>TEQOA                    </item>
+        <item>TARABIN AS-SANI          </item>
+        <item>TARABIN AS-SANI          </item>
+        <item>TARUM                    </item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context=".apartments_scan">
+
+
+    <!--    <ImageView-->
+<!--        android:id="@+id/image_view"-->
+<!--        android:layout_width="326dp"-->
+<!--        android:layout_height="259dp"-->
+<!--        android:layout_marginStart="43dp"-->
+<!--        android:layout_marginLeft="43dp"-->
+<!--        android:layout_marginTop="56dp"-->
+<!--        android:layout_marginEnd="42dp"-->
+<!--        android:layout_marginRight="42dp"-->
+<!--        android:clickable="true"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+
+    <ImageButton
+        android:id="@+id/rightBtn"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="45dp"
+        android:layout_marginRight="45dp"
+        android:foregroundGravity="center"
+        android:scaleType="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cityText"
+        app:srcCompat="@drawable/arrowright2"
+        tools:srcCompat="@drawable/arrowright2" />
+
+    <ImageButton
+        android:id="@+id/leftBtn"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="8dp"
+        android:foregroundGravity="center"
+        android:scaleType="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cityText"
+        app:srcCompat="@drawable/arrowleft2"
+        tools:srcCompat="@drawable/arrowleft2" />
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="326dp"
+        android:layout_height="259dp"
+        android:layout_marginStart="17dp"
+        android:layout_marginLeft="17dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginRight="17dp"
+        android:clickable="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchButton" />
+
+    <ImageButton
+        android:id="@+id/heartBtn"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginRight="40dp"
+        android:foregroundGravity="center"
+        android:scaleType="center"
+        app:layout_constraintEnd_toStartOf="@+id/rightBtn"
+        app:layout_constraintStart_toEndOf="@+id/leftBtn"
+        app:layout_constraintTop_toBottomOf="@+id/cityText"
+        app:srcCompat="@drawable/heart3" />
+
+    <TextView
+        android:id="@+id/cityText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="171dp"
+        android:layout_marginLeft="171dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="171dp"
+        android:layout_marginRight="171dp"
+        android:hint="City"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_view" />
+
+    <TextView
+        android:id="@+id/zeroItemsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="170dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="182dp"
+        android:layout_marginRight="182dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteFilter"
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginRight="11dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Choose city"
+        android:padding="12dp"
+        android:singleLine="true"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/zeroItemsText" />
+
+    <ImageButton
+        android:id="@+id/searchButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="141dp"
+        android:layout_marginLeft="141dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="141dp"
+        android:layout_marginRight="141dp"
+        android:text="Search"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/zeroItemsText"
+        app:srcCompat="@android:drawable/ic_search_category_default" />
+
+    <EditText
+        android:id="@+id/maxPriceFilter"
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginLeft="11dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Max Price"
+        android:inputType="number"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/zeroItemsText" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

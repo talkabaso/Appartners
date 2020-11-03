@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/personal_details_item"
+        android:title="Personal details" />
+
+    <item
+        android:id="@+id/apartment_details_Item"
+        android:title="Apartment details" />
+    
+<!--    <item-->
+<!--        android:id="@+id/partners_scan_item"-->
+<!--        android:title="Partners scan" />-->
+
+    <item
+        android:id="@+id/my_fav_item"
+        android:title="My favorites" />
+
+    <item
+        android:id="@+id/my_uploads_items"
+        android:title="My uploads" />
+
+    <item
+        android:id="@+id/LogOutItem"
+        android:title="Log Out" />
+
+    <item
+        android:id="@+id/RemoveItem"
+        android:title="Remove User" />
+
+</menu>
